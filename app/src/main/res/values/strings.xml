@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LMS_Mockup</string>
+    <string name="course_name">Course Name</string>
+    <string name="details">Details</string>
+    <string name="course_template">COURSE_TEMPLATE</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut tellus a ex pellentesque porta non ac nisl. Maecenas a risus elit. Sed porttitor, erat vitae congue scelerisque, turpis purus auctor enim, vel vestibulum enim leo quis lacus. Aenean ut felis quis urna mollis pulvinar. Morbi non augue varius, lacinia lectus nec, dignissim dui. Donec eu odio vitae massa viverra molestie. Donec turpis dolor, vehicula et lorem eget, rhoncus malesuada metus. Aenean non est vitae ligula mattis tempus. Cras purus dolor, euismod at lectus vel, hendrerit sagittis purus. Etiam nec diam sit amet metus viverra tincidunt quis et tortor. Ut lobortis ipsum nec aliquet efficitur. Ut fringilla mi elit, sit amet eleifend nibh dapibus sit amet. Mauris quam leo, aliquet id nibh a, molestie volutpat massa. Phasellus molestie elit sed vulputate porttitor. In sit amet lobortis justo, eu ultrices purus. Ut nec posuere est. Vestibulum eu sem vel purus dignissim sodales nec non eros. Aenean ullamcorper tristique arcu quis consectetur. Morbi enim risus, consequat non egestas in, ultrices vitae nulla. Vivamus sit amet pellentesque tortor, eu euismod eros. Quisque posuere in lectus ut convallis. Sed et fermentum purus, et euismod dolor. Curabitur sed rhoncus augue. Praesent congue metus non nisl euismod condimentum. Aliquam erat volutpat. Integer ut ullamcorper dolor. Mauris in ultricies libero. Morbi eu libero at massa volutpat sollicitudin. Nam a iaculis turpis.</string>
+    <string name="enroll">Enroll</string>
+    <string name="delist">De-list</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="erase">Erase</string>
+    <string name="course_list">Course List</string>
+    <string name="account">Account</string>
+    <string name="author_name">Owen Christian Wijaya</string>
+    <string name="author_email">owencwijaya@gmail.com</string>
+    <string name="credits">CREDITS</string>
+</resources>
